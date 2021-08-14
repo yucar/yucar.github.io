@@ -1,0 +1,16 @@
+# User config
+author: "Rodrigo López San Martín"
+tagline: "Pineapple Certfied Jekyll Theme"
+description: "Build in progress"
+keywords: "Pineapple, Pineapple Pizza, Pineapple House"
+email: "r.lopez@icloud.com"
+linkedin: "https://www.linkedin.com/"
+twitter: "https://twitter.com/"
+github: "https://github.com/yucar"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
